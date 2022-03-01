@@ -1,2 +1,2 @@
 # Introduction-to-Machine-Learning
-Machine Learning, Deep Learning, Nueral Network, NLP using Pytorch
+Machine Learning, Deep Learning, Neural Network, NLP using Pytorch
